@@ -1,0 +1,11 @@
+{
+  "name": "html-client-boilerplate",
+  "description": "A simple HTML Client Boilerplate for kicking off simple projects",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "dev-dependencies": {},
+  "scripts": {
+    "start": "npm start",
+  }
+}
